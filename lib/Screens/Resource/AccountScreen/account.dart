@@ -1,7 +1,7 @@
-import 'package:zarafa/Controller/Routes/routes_method.dart';
-import 'package:zarafa/Customtext/custom_text.dart';
 import 'package:zarafa/Screens/Resource/cliper.dart';
 
+import '../../../Controller/Routes/routes_method.dart';
+import '../../../Customtext/custom_text.dart';
 import '../../../Export/export.dart';
 
 class ProfileScreen extends StatelessWidget {
